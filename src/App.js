@@ -18,10 +18,6 @@ class App extends Component {
           </div>
         </ExampleTwoContextProvider>
 
-        <div className="container">
-          <h1>Tittle</h1>
-          <p>lorem</p>
-        </div>
       </>
     );
   }
